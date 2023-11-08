@@ -1,4 +1,4 @@
-I am excited to share my latest data visualization project using Power BI.
+I am excited to share my data visualization project using Power BI.
 This is a Capstone Project given by Analytics Vidhya as a final assessment of their PowerBI Course and the Data consists of a simple food delivery company data set like Zomato and Swiggy.
 
 As We know in Real Life Scenario a client let's you know their requirements, like what they want in Power BI report, So Analytics Vidhya also gave some questions which were.
@@ -24,5 +24,8 @@ Meal info - category, cuisine and meal id.
 
 weekly demand data - base price, center id, checkout price, emailer for promotion (cuisines promoted via mails), home page feature (cuisines promoted via featuring on homepage), id, meal id, number of orders, week number.
 
+In this project I have analyzed data of a food delivery company and created an interactive Dashboard.Used different types of customized visualization (bar chart, donut chart, sunburst chart, slicers etc)
+This Dashboard delivers you with KPI’s which will allow business to track their progress, identify gaps, and make informed decisions to align their sales efforts with their objectives, ultimately driving growth and profitability.
+ 
 Attaching the Dashboard here, Please have a look.
 Your Valuable suggestions and feedback are welcome.
